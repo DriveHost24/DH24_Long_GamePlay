@@ -13,3 +13,7 @@ Freightliner Cascadia 2019 72 Sleeper RR 605 hp 451kW 18 speeds All Terrain Cran
 Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Material Handler 80000 lb Barstow to Huron
 
 Volvo VNL 860 500 hp 372kW 12 speeds Beet Harvester 65000 lb Yuma to Indio
+
+Mack Anthem 70 Sleeper 505 hp 377kW 18 speeds Transformer 123500 lb Bakersfield to Los Angeles
+
+Volvo VNL 860 500 hp 372kW 12 speeds Cotton Harvester 70000 lb Blythe to San Diego

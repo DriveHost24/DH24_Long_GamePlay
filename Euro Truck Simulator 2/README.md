@@ -13,3 +13,7 @@ Scania S High Roof 770 hp 566kW 14 speeds Excavator Volvo EW240E MH 26 t Duisbur
 Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Gravel 27 t Graz to Linz
 
 Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Rock Bucket Volvo SPN P T SEG 3 t Amsterdam to Liege
+
+Scania S High Roof 730 hp 537kW 14 speeds Log Stacker 54 t Bern to Bern
+
+MAN TGX GX 640 hp 471kW 12 speeds Transformer 47 t Travemunde to Dresden
