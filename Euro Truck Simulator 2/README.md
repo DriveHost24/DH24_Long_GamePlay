@@ -17,3 +17,7 @@ Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Rock Bucket Volvo SPN P T 
 Scania S High Roof 730 hp 537kW 14 speeds Log Stacker 54 t Bern to Bern
 
 MAN TGX GX 640 hp 471kW 12 speeds Transformer 47 t Travemunde to Dresden
+
+Scania R 2009 Topline 730 hp 537kW 14 speeds Forestry Crawler Excavator 17 t Bern to Bern
+
+Scania S High Roof 770 hp 566kW 14 speeds Mobile Crusher 40 t Graz to Nuremberg
