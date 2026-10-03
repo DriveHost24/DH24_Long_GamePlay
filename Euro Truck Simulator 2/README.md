@@ -21,3 +21,7 @@ MAN TGX GX 640 hp 471kW 12 speeds Transformer 47 t Travemunde to Dresden
 Scania R 2009 Topline 730 hp 537kW 14 speeds Forestry Crawler Excavator 17 t Bern to Bern
 
 Scania S High Roof 770 hp 566kW 14 speeds Mobile Crusher 40 t Graz to Nuremberg
+
+Scania S High Roof 730 hp 537kW 14 speeds Mobile Crusher 40 t Salzburg to Innsbruck
+
+MAN TGX Euro 5 XLX 680 hp 500kW 16 speeds Giant Silo 20.1 x 4.6 x 4.6 m & 40 t Bremen to Travemunde

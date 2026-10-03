@@ -21,3 +21,7 @@ Volvo VNL 860 500 hp 372kW 12 speeds Cotton Harvester 70000 lb Blythe to San Die
 Freightliner Cascadia 2019 72 Sleeper RR 605 hp 451kW 18 speeds Milling Machine 97000 lb Truckee to San Francisco
 
 Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Material Handler 80000 lb Oxnard to Fresno
+
+Freightliner Cascadia 2019 72 Sleeper RR 605 hp 451kW 18 speeds Material Handler 80000 lb Kingman to Phoenix
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Log Harvester 48500 lb
