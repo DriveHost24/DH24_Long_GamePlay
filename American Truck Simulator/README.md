@@ -25,3 +25,7 @@ Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Material Handler 80000 lb
 Freightliner Cascadia 2019 72 Sleeper RR 605 hp 451kW 18 speeds Material Handler 80000 lb Kingman to Phoenix
 
 Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Log Harvester 48500 lb
+
+Volvo VNL 860 500 hp 372kW 12 speeds Wagon Krone GX 440 20100 lb Blythe to Phoenix
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Tamping Machine 60000 lb Barstow to Kingman

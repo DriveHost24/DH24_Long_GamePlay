@@ -25,3 +25,7 @@ Scania S High Roof 770 hp 566kW 14 speeds Mobile Crusher 40 t Graz to Nuremberg
 Scania S High Roof 730 hp 537kW 14 speeds Mobile Crusher 40 t Salzburg to Innsbruck
 
 MAN TGX Euro 5 XLX 680 hp 500kW 16 speeds Giant Silo 20.1 x 4.6 x 4.6 m & 40 t Bremen to Travemunde
+
+Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Garlic 15 t Magdeburg to Dresden
+
+Scania S High Roof 730 hp 537kW 14 speeds Mobile Crane 36 t Rotterdam to Dortmund
