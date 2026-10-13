@@ -29,3 +29,9 @@ Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Log Harvester 48500 lb
 Volvo VNL 860 500 hp 372kW 12 speeds Wagon Krone GX 440 20100 lb Blythe to Phoenix
 
 Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Tamping Machine 60000 lb Barstow to Kingman
+
+Peterbilt 389 Ultra Cab Sleeper 625 hp 466kW 18 speeds Material Handler 80000 lb Eureka to Ukiah
+
+Western Star 57X 72 Sleeper 600 hp 447kW 12 speeds Air Conditioning Complex 43 x 16 x 10 66000 lb Primm to Ely
+
+Volvo VNL 860 500 hp 372kW 12 speeds Massive Tech Part 20 x 20 x 16 99000 lb Oakland to Fresno

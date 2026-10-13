@@ -29,3 +29,9 @@ MAN TGX Euro 5 XLX 680 hp 500kW 16 speeds Giant Silo 20.1 x 4.6 x 4.6 m & 40 t B
 Volvo FH6 Aero Globetrotter XL 780 hp 574kW 12 speeds Garlic 15 t Magdeburg to Dresden
 
 Scania S High Roof 730 hp 537kW 14 speeds Mobile Crane 36 t Rotterdam to Dortmund
+
+Renault T High Sleeper 520 hp 382kW 14 speeds Mobile Crane 36 t Wroclaw to Prague
+
+Volvo FH6 Aero Globetrotter XL 700 hp 515kW 12 speeds Underground Loader 12.0 x 3.1 x 3.1 m 54 t Brussels to Amsterdam
+
+Scania S High Roof 770 hp 566kW 14 speeds Massive Tech Part 6.0 x 6.0 x 5.0 m 44 t Bratislava to Graz
